@@ -16,7 +16,7 @@
 	[rectView addSubview:imageView];
 	[self.view addSubview:rectView];
 
-	UILabel *redRectangle = [[UILabel alloc] initWithFrame:CGRectMake(0, 40, 300, 20)];
+	UILabel *redRectangle = [[UILabel alloc] initWithFrame:CGRectMake(0, 20, 300, 40)];
 	[redRectangle setFont:[UIFont fontWithName: @"Trebuchet MS" size: 14.0f]]; 
 	[redRectangle setBackgroundColor:[UIColor redColor]];;
 	[self.view addSubview:redRectangle];
