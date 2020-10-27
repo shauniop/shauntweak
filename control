@@ -1,9 +1,9 @@
 Package: com.yourcompany.shauntweak
 Name: shauntweak
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0a
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: Shaun K
-Author: Shaun K
+Maintainer: Shaun Kollannur
+Author: Shaun Kollannur
 Section: Tweaks
