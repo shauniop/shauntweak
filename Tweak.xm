@@ -52,7 +52,7 @@
 
 	}else if([controller isMemberOfClass:%c(CCUIConnectivityWifiViewController)]) {
 		//toggleColor = [UIColor colorWithRed: 1.00 green: 0.00 blue: 0.00 alpha: 1.00];
-		toggleColor = @"#00FF00";
+		toggleColor = @"#FF0000";
 
 
 	}
